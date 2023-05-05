@@ -14,6 +14,17 @@
 - https://github.com/camhan22/BLDC-Motor-Controller
 - 
 
+# Actuators 
+- [OpenTorque-Actuator](https://github.com/G-Levine/OpenTorque-Actuator)
+- [moteus brushless servo](https://github.com/mjbots/moteus)
+- [Betz Drive](https://github.com/BetzDrive)
+
+# MISC
+- https://github.com/cajt/manual_paste_dispenser
+- https://ajaygunalan.github.io/blog/notes/motor/motor.html
+- https://ajaygunalan.github.io/projects/past/bldc.html#real-time-embedded-system-programming
+- https://github.com/iDoka/awesome-canbus
+
 
 
 # A list of resources, projects and products useful for robot electronics
