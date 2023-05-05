@@ -10,6 +10,8 @@
 - [T-STorM32: The best STorM32 ever !?](https://youtu.be/BmF8KwwNlb0)  
 - [STorM32 BGC: 3-Axis STM32 Brushless Gimbal Controller](http://www.olliw.eu/2013/storm32bgc/)
 - [olliw42/storm32bgc](https://github.com/olliw42/storm32bgc) - 3-axis Brushless Gimbal Controller, based on STM32 32-bit microcontroller
+- https://github.com/dj140/FurutaPendulum_PJT
+- https://github.com/camhan22/BLDC-Motor-Controller
 - 
 
 
