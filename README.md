@@ -4,6 +4,7 @@
 - [VESC](https://github.com/vedderb/bldc-hardware) - Brushless DC Motor controller
 - [EBiCS_Firmware](https://github.com/EBiCS/EBiCS_Firmware) - Free FOC firmware for Lishui E-Bike-Controllers
 - [EBiCS_motor_FOC](https://github.com/EBiCS/EBiCS_motor_FOC) - Motor control firmware implementing FOC for STM32F103
+- [SFOC-Actuators](https://github.com/tevins/SFOC-Actuators) - Actuators for robots, supports Simplefoc library！
 
 
 
