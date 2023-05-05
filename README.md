@@ -8,6 +8,7 @@
 - [QiHuiKeJi-SFOC](https://github.com/QiHuiKeJi/SFOC) - ...
 - [Field Oriented Control: To FOC or not to FOC](http://www.olliw.eu/2017/field-oriented-control/) - Motor Equations
 - [T-STorM32: The best STorM32 ever !?](https://youtu.be/BmF8KwwNlb0)  
+- [STorM32 BGC: 3-Axis STM32 Brushless Gimbal Controller](http://www.olliw.eu/2013/storm32bgc/)
 - 
 
 
