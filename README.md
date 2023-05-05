@@ -6,7 +6,8 @@
 - [EBiCS_motor_FOC](https://github.com/EBiCS/EBiCS_motor_FOC) - Motor control firmware implementing FOC for STM32F103
 - [SFOC-Actuators](https://github.com/tevins/SFOC-Actuators) - Actuators for robots, supports Simplefoc library！
 - [QiHuiKeJi-SFOC](https://github.com/QiHuiKeJi/SFOC) - ...
-
+- [Field Oriented Control: To FOC or not to FOC](http://www.olliw.eu/2017/field-oriented-control/) - Motor Equations
+-  
 
 
 
